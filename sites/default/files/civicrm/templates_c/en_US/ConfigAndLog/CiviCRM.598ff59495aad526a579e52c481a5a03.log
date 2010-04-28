@@ -1,0 +1,924 @@
+Apr 27 15:22:28  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/index.php?q=civicrm/admin/configtask&reset=1
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:23:05  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/admin/setting/localization?reset=1&destination=%2Fvoipdev%2Fcivicrm%2Fadmin%2Fconfigtask%3Freset%3D1
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:23:19  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/admin/setting/localization
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:23:21  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/admin/configtask?reset=1
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:23:30  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/ajax/contactlist?context=navigation&s=jan&limit=10&timestamp=1272407009928
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:23:33  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view?reset=1&cid=13
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:24:48  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view/group?reset=1&snippet=1&cid=13
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:24:59  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/group&reset=1
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:08  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/group/search?reset=1&force=1&context=smog&gid=3
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:31  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=68
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:40  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=68
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:42  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=11
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:44  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=49
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:46  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=34
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:47  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=88
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:49  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=42
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:25:51  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=9
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:26:56  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:00  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view?reset=1&cid=68
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:07  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:07  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:27:07  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:27:17  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:17  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:27:17  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:27:29  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:29  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:27:29  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:27:42  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:42  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:27:42  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:27:54  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:27:54  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:27:54  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:28:04  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:28:32  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:28:36  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view?reset=1&cid=9
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:29:42  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/group/search?reset=1&force=1&context=smog&gid=3
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:29:57  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=11
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:29:58  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=49
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:30:02  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=34
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:30:04  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=42
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:30:28  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:30:28  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:30:28  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:30:58  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:30:58  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:30:58  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:31:13  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:31:13  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Apr 27 15:31:13  [info] $backTrace = /var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Error.php, backtrace, 264
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Request.php, fatal, 109
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Contact/Form/Contact.php, retrieve, 143
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Form.php, preProcess, 315
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Upload.php, buildForm, 123
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php, perform, 203
+/var/www/voipdev/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php, handle, 103
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Controller.php, handle, 263
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Utils/Wrapper.php, run, 115
+/var/www/voipdev/sites/all/modules/civicrm/CRM/Core/Invoke.php, run, 182
+/var/www/voipdev/sites/all/modules/civicrm/drupal/civicrm.module, invoke, 349
+, civicrm_invoke, 
+/var/www/voipdev/includes/menu.inc, call_user_func_array, 348
+/var/www/voipdev/index.php, menu_execute_active_handler, 18
+
+Apr 27 15:31:45  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:31:48  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&ct=Individual
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:32:25  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:32:28  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&ct=Individual
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:33:49  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:33:52  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view?reset=1&cid=104
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:34:14  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add?reset=1&action=update&cid=104
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:34:31  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/add
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
+Apr 27 15:34:35  [info] $IDS Detector Details = Array
+(
+    [0] => Array
+        (
+            [name] => DrupalGinkgo
+            [value] => {"block-spaces_dashboard-editor":{"top":0,"left":433}}
+            [page] => /voipdev/civicrm/contact/view?reset=1&cid=104
+            [userid] => 102
+            [session] => e466656e5af155ad56352520e2b023db
+            [ip] => 127.0.0.1
+            [reaction] => 0
+            [impact] => 32
+        )
+
+)
+
+
